@@ -30,7 +30,14 @@
         "animations": {
             "alternating": true,
             "breathing": true,
-            "rainbow_mood": true
+            "christmas": true,
+            "knight": true,
+            "rainbow_mood": true,
+            "rainbow_swirl": true,
+            "rgb_test": true,
+            "snake": true,
+            "static_gradient": true,
+            "twinkle": true
         },
         "layers": {
             "enabled": true
