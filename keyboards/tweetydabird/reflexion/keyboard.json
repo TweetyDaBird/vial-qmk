@@ -31,7 +31,7 @@
             "breathing": true,
             "rainbow_mood": true
         },
-        "led_count": 70,
+        "split_count": [35, 35],
         "sleep": true
         "max_brightness": 125
     },
@@ -59,7 +59,8 @@
                 "layer_state": true,
                 "matrix_state": true,
                 "modifiers": true,
-                "oled": true
+                "oled": true,
+                "rgb": true
             }
         },
         "usb_detect": {
