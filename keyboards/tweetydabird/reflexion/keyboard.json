@@ -31,9 +31,11 @@
             "breathing": true,
             "rainbow_mood": true
         },
-        "split_count": [35, 35],
-        "sleep": true
-        "max_brightness": 125
+        "led_count": 70,
+        "max_brightness": 175,
+        "sleep": true,
+        "split": true,
+        "split_count": [35, 35]
     },
 	"split": {
         "bootmagic": {
@@ -59,8 +61,7 @@
                 "layer_state": true,
                 "matrix_state": true,
                 "modifiers": true,
-                "oled": true,
-                "rgb": true
+                "oled": true
             }
         },
         "usb_detect": {
